@@ -6,7 +6,7 @@
 	</parent>
 
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>ru.open.commons.statistics</groupId>
+	<groupId>io.github.esirotkin</groupId>
 	<artifactId>zabbix-api</artifactId>
 	<version>0.0.3-SNAPSHOT</version>
 
