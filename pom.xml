@@ -6,7 +6,7 @@
 	</parent>
 
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>io.github.hengyunabc</groupId>
+	<groupId>ru.open.commons.statistics</groupId>
 	<artifactId>zabbix-api</artifactId>
 	<version>0.0.3-SNAPSHOT</version>
 
